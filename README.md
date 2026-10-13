@@ -1,4 +1,4 @@
-###Zarządzanie Projektami Informatycznymi
+### Zarządzanie Projektami Informatycznymi
 
 #Michał Broda
 #Oskar Piotrowski
